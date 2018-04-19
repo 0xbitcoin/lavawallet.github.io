@@ -2,7 +2,7 @@
  ## Lava Wallet
 
 
- #### Shift between Ether and 0xBitcoin for free!
+ #### Token Wallet with super powers.  Offchsin transfers amd gas payment using tokens. 
 
 
 
